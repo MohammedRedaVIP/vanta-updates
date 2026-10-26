@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.1.1/pack-1.1.1.zip",
-  "sha256": "bb0827c47ed0d640e80c0b45710297f40d653eb998683e414d9f27ead165c9ec",
-  "size_bytes": 37257,
+  "version": "1.2.1",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.2.1/pack-1.2.1.zip",
+  "sha256": "d7b140d4f04d177e415efbe0215874d84f5c1ce9e6bb38b55683031916103760",
+  "size_bytes": 37915,
   "files": [
     "server.py",
     "updater.py"
   ],
-  "notes": "إصلاح تعليق «جارٍ التحقق»: مهلة 30 ثانية + عدّاد زمني + رسالة خطأ واضحة + تطبيق مباشر من رابط zip"
+  "notes": "إخفاء إشعار «أعد التشغيل» تلقائياً بعد التحديث + زر ✕ لإخفائه فوراً"
 }

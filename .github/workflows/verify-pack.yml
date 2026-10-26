@@ -1,0 +1,45 @@
+name: verify-pack
+
+on:
+  push:
+    paths: ["manifest.json", "pack-*.zip"]
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: تحقق من manifest والحزمة
+        run: |
+          python - <<'PY'
+          import hashlib, json, sys, urllib.request, zipfile, io, os
+
+          man = json.load(open('manifest.json', encoding='utf-8'))
+          for k in ('version', 'pack_url', 'sha256'):
+              if k not in man:
+                  sys.exit('manifest ناقص الحقل: ' + k)
+
+          local = 'pack-%s.zip' % man['version']
+          if os.path.exists(local):
+              data = open(local, 'rb').read()
+              src = 'repo file'
+          else:
+              data = urllib.request.urlopen(man['pack_url'], timeout=60).read()
+              src = man['pack_url']
+
+          got = hashlib.sha256(data).hexdigest()
+          if got != man['sha256']:
+              sys.exit('SHA غير مطابق: %s != %s' % (got, man['sha256']))
+
+          z = zipfile.ZipFile(io.BytesIO(data))
+          bad = [n for n in z.namelist() if not n.endswith('.py')]
+          if bad:
+              sys.exit('الحزمة تحتوي ملفات غير مسموحة: %s' % bad)
+
+          print('OK: version=%s size=%d files=%s (من %s)'
+                % (man['version'], len(data), z.namelist(), src))
+          PY

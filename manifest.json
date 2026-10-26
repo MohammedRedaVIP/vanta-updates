@@ -1,11 +1,11 @@
 {
   "version": "1.0.9",
   "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.0.9/pack-1.0.9.zip",
-  "sha256": "567580b7e2b281de530688099578fbc098fa6d1cb92028ec060de31ed03d8d28",
-  "size_bytes": 34629,
+  "sha256": "461b566acc20e65be4dc12ae37bb098f8da5062facb11f394f328181a4bd8123",
+  "size_bytes": 34530,
   "files": [
     "server.py",
     "updater.py"
   ],
-  "notes": "واجهة جديدة + قناة تحديث افتراضية — تطبيق واحد يكفي"
+  "notes": "واجهة جديدة + قناة تحديث افتراضية + إصلاح زر تحقق/تطبيق"
 }

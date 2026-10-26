@@ -1,11 +1,10 @@
 {
-  "version": "1.0.9",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.0.9/pack-1.0.9.zip",
-  "sha256": "461b566acc20e65be4dc12ae37bb098f8da5062facb11f394f328181a4bd8123",
-  "size_bytes": 34530,
+  "version": "1.1.0",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.1.0/pack-1.1.0.zip",
+  "sha256": "0f4a4ed76b8be31f81e35869e0a08bf625b41b21ea5e82d126180596b0f1bb3a",
+  "size_bytes": 34076,
   "files": [
-    "server.py",
-    "updater.py"
+    "server.py"
   ],
-  "notes": "واجهة جديدة + قناة تحديث افتراضية + إصلاح زر تحقق/تطبيق"
+  "notes": "واجهة جديدة: ترحيب وبطاقات أوامر سريعة، تابات محادثة/ملفات، صفحة ملفات"
 }

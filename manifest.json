@@ -1,11 +1,10 @@
 {
-  "version": "1.0.6",
-  "pack_url": "https://raw.githubusercontent.com/MohammedRedaVIP/vanta-updates/main/pack-1.0.6.zip",
-  "sha256": "fa4a0037bdaaa1fa3a57d5072b9f0102cb65386ea3b0c73712443fcabe2455aa",
-  "size_bytes": 3191,
+  "version": "1.0.7",
+  "pack_url": "https://raw.githubusercontent.com/MohammedRedaVIP/vanta-updates/main/pack-1.0.7.zip",
+  "sha256": "231d31ba168a56b02ae64be09f18c321ffd805d52c58ce2348d30d0576b28ea5",
+  "size_bytes": 2104,
   "files": [
-    "updater.py",
-    "pyoverlay.py"
+    "updater.py"
   ],
-  "notes": "حزمة تأسيس قناة التحديث (بدون تغييرات وظيفية)"
+  "notes": "قناة التحديث الافتراضية داخل التطبيق — بعد تطبيقها لا تحتاج لصق الرابط مرة أخرى"
 }

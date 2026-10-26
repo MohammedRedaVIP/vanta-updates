@@ -1,10 +1,11 @@
 {
-  "version": "1.1.0",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.1.0/pack-1.1.0.zip",
-  "sha256": "0f4a4ed76b8be31f81e35869e0a08bf625b41b21ea5e82d126180596b0f1bb3a",
-  "size_bytes": 34076,
+  "version": "1.1.1",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.1.1/pack-1.1.1.zip",
+  "sha256": "bb0827c47ed0d640e80c0b45710297f40d653eb998683e414d9f27ead165c9ec",
+  "size_bytes": 37257,
   "files": [
-    "server.py"
+    "server.py",
+    "updater.py"
   ],
-  "notes": "واجهة جديدة: ترحيب وبطاقات أوامر سريعة، تابات محادثة/ملفات، صفحة ملفات"
+  "notes": "إصلاح تعليق «جارٍ التحقق»: مهلة 30 ثانية + عدّاد زمني + رسالة خطأ واضحة + تطبيق مباشر من رابط zip"
 }

@@ -1,10 +1,11 @@
 {
   "version": "1.0.9",
   "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.0.9/pack-1.0.9.zip",
-  "sha256": "31d1d130528363089a647303f69ba920f7563eea3dab78c985bd7e2391b05649",
-  "size_bytes": 31898,
+  "sha256": "567580b7e2b281de530688099578fbc098fa6d1cb92028ec060de31ed03d8d28",
+  "size_bytes": 34629,
   "files": [
-    "server.py"
+    "server.py",
+    "updater.py"
   ],
-  "notes": "واجهة جديدة بالكامل: تصميم داكن أنيق، فقاعات متدرجة، سايدبار درج، صندوق إدخال عائم"
+  "notes": "واجهة جديدة + قناة تحديث افتراضية — تطبيق واحد يكفي"
 }

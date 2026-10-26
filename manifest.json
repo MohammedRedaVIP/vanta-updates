@@ -1,10 +1,11 @@
 {
-  "version": "1.0.7",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.0.7/pack-1.0.7.zip",
-  "sha256": "231d31ba168a56b02ae64be09f18c321ffd805d52c58ce2348d30d0576b28ea5",
-  "size_bytes": 2104,
+  "version": "1.0.8",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.0.8/pack-1.0.8.zip",
+  "sha256": "a0fa68437278448be0f0965b0ea46a9417c30d7f16c896cb4807d39cd1d113c2",
+  "size_bytes": 33618,
   "files": [
-    "updater.py"
+    "updater.py",
+    "server.py"
   ],
-  "notes": "قناة التحديث الافتراضية داخل التطبيق — رابط الإصدار ثابت ولا يتأثر بكاش CDN"
+  "notes": "تحديث تلقائي: فحص يومي في الخلفية + تطبيق صامت + شريط «أعد التشغيل»"
 }

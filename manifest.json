@@ -1,0 +1,11 @@
+{
+  "version": "1.0.6",
+  "pack_url": "https://raw.githubusercontent.com/MohammedRedaVIP/vanta-updates/main/pack-1.0.6.zip",
+  "sha256": "fa4a0037bdaaa1fa3a57d5072b9f0102cb65386ea3b0c73712443fcabe2455aa",
+  "size_bytes": 3191,
+  "files": [
+    "updater.py",
+    "pyoverlay.py"
+  ],
+  "notes": "حزمة تأسيس قناة التحديث (بدون تغييرات وظيفية)"
+}

@@ -1,11 +1,14 @@
 {
-  "version": "1.2.1",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.2.1/pack-1.2.1.zip",
-  "sha256": "d7b140d4f04d177e415efbe0215874d84f5c1ce9e6bb38b55683031916103760",
-  "size_bytes": 37915,
+  "version": "1.5.0",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.5.0/pack-1.5.0.zip",
+  "sha256": "2069e8ae362f1b410238f33b2e22db3c22b26c9128aeb17a4116bc702c7d074b",
+  "size_bytes": 44396,
   "files": [
     "server.py",
-    "updater.py"
+    "settings.py",
+    "telegram_bridge.py",
+    "security.py",
+    "automation.py"
   ],
-  "notes": "إخفاء إشعار «أعد التشغيل» تلقائياً بعد التحديث + زر ✕ لإخفائه فوراً"
+  "notes": "بوت تيليجرام كامل + وصفات أتمتة ومجدول + مراقب صفحات + فحص أمني لنطاقاتك فقط"
 }

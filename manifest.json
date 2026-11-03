@@ -1,10 +1,12 @@
 {
-  "version": "1.5.1",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.5.1/pack-1.5.1.zip",
-  "sha256": "cc830ac88cce519ce6a748fc615a0c70f8bd5d506bc9c072009b1f70d54fec0e",
-  "size_bytes": 35704,
+  "version": "1.5.2",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.5.2/pack-1.5.2.zip",
+  "sha256": "a74fcbb4a096b3ff472328e05e76c993aaeab571da6070be6d443a8c2fa407f8",
+  "size_bytes": 40231,
   "files": [
+    "updater.py",
+    "pyoverlay.py",
     "server.py"
   ],
-  "notes": "شاشة ربط تيليجرام: توكن + chat_id بضغطة، مع اختبار وإرسال رسالة تأكيد"
+  "notes": "إصلاح «أنت على أحدث نسخة» الكاذب: النسخة المطبَّقة لا تُعتبر شغّالة إلا بعد إعادة تشغيل فعلية"
 }

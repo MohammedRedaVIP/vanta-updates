@@ -1,12 +1,16 @@
 {
-  "version": "1.5.2",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.5.2/pack-1.5.2.zip",
-  "sha256": "a74fcbb4a096b3ff472328e05e76c993aaeab571da6070be6d443a8c2fa407f8",
-  "size_bytes": 40231,
+  "version": "1.5.3",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.5.3/pack-1.5.3.zip",
+  "sha256": "d78721ccea3ddc1a57d837c8562bf77c0e9a5ce534f949c38a3129b3b5d79310",
+  "size_bytes": 50260,
   "files": [
-    "updater.py",
     "pyoverlay.py",
-    "server.py"
+    "updater.py",
+    "server.py",
+    "settings.py",
+    "telegram_bridge.py",
+    "security.py",
+    "automation.py"
   ],
-  "notes": "إصلاح «أنت على أحدث نسخة» الكاذب: النسخة المطبَّقة لا تُعتبر شغّالة إلا بعد إعادة تشغيل فعلية"
+  "notes": "إصلاح فقدان التحديثات بعد تركيب APK جديد + استرجاع تلقائي من نسخة الحزمة المحفوظة"
 }

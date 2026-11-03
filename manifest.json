@@ -1,11 +1,11 @@
 {
-  "version": "1.7.5",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.7.5/pack-1.7.5.zip",
-  "sha256": "182c16947bc99e49f8fea0be9df6eacef4954ba9ce669650a341a87b58fe7401",
-  "size_bytes": 5866,
+  "version": "1.7.6",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.7.6/pack-1.7.6.zip",
+  "sha256": "d16e30ed4358a5be72b495ff90ae42806f88dfc9c043e314e5bae17f526ad4fd",
+  "size_bytes": 8656,
   "files": [
-    "skills_registry.py",
-    "telegram_bridge.py"
+    "skills_bundle.py",
+    "skills_registry.py"
   ],
-  "notes": "مسار مهارات صحيح من server.BASE + عرض المرشّحين عند الصفر"
+  "notes": "مهارات مدمجة كنصوص تُكتب عند أول تشغيل — مش معتمدة على مسار الملفات"
 }

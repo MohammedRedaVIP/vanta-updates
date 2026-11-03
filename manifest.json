@@ -1,11 +1,11 @@
 {
-  "version": "1.7.3",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.7.3/pack-1.7.3.zip",
-  "sha256": "e2a79cd7237d42a582f036044ee9cdb14e09411e81cbe73e6018e5b774150915",
-  "size_bytes": 5070,
+  "version": "1.7.4",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.7.4/pack-1.7.4.zip",
+  "sha256": "61e774686595d2b22545968d6dfc1ce212149bd360ffc5fc3871bfc799a2ecd2",
+  "size_bytes": 5646,
   "files": [
     "telegram_bridge.py",
     "skills_registry.py"
   ],
-  "notes": "أمر /skills + بذر مهارات الحزم تلقائياً"
+  "notes": "تيليجرام يشغّل الدور مباشرة بسبب واضح + إصلاح عدّاد المهارات"
 }

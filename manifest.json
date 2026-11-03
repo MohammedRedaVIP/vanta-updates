@@ -1,11 +1,12 @@
 {
-  "version": "1.6.1",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.6.1/pack-1.6.1.zip",
-  "sha256": "ad863df09834235bea35f1378549cc6e4b97ebd7f34e9b81e7b8feb424af6e40",
-  "size_bytes": 39701,
+  "version": "1.7.0",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.7.0/pack-1.7.0.zip",
+  "sha256": "d66ad52484a53d25b9400b477149fe97ea18e89277fc207500800c23ddb099b5",
+  "size_bytes": 7616,
   "files": [
-    "server.py",
-    "telegram_bridge.py"
+    "main.py",
+    "llm_api.py",
+    "settings.py"
   ],
-  "notes": "سبب «لا رد» يظهر صريحاً + أمر /diag لتشخيص إعداد المزوّد"
+  "notes": "مزوّد رسمي متوافق مع OpenAI — ضع api_key في الإعدادات"
 }

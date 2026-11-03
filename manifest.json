@@ -1,11 +1,10 @@
 {
-  "version": "1.7.1",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.7.1/pack-1.7.1.zip",
-  "sha256": "e05f9beb5fb9be60c3d86d5e4e22e7746059ed49a4dc698c59f3ad30b64ec2e2",
-  "size_bytes": 39292,
+  "version": "1.7.2",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.7.2/pack-1.7.2.zip",
+  "sha256": "8865e2bcdbb8d86f1e141aabc7793f905b5bfee5372d4874ad500c3415eaf5c2",
+  "size_bytes": 3748,
   "files": [
-    "server.py",
     "telegram_bridge.py"
   ],
-  "notes": "إصلاح «لا رد» في تيليجرام: إنشاء جلسة DeepSeek حقيقية بدل المصطنعة"
+  "notes": "أمر /diag الحقيقي: نسخة الكود، الطبقة، المزوّد، المهارات، نطاقاتك"
 }

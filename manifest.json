@@ -1,12 +1,11 @@
 {
-  "version": "1.7.0",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.7.0/pack-1.7.0.zip",
-  "sha256": "d66ad52484a53d25b9400b477149fe97ea18e89277fc207500800c23ddb099b5",
-  "size_bytes": 7616,
+  "version": "1.7.1",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.7.1/pack-1.7.1.zip",
+  "sha256": "e05f9beb5fb9be60c3d86d5e4e22e7746059ed49a4dc698c59f3ad30b64ec2e2",
+  "size_bytes": 39292,
   "files": [
-    "main.py",
-    "llm_api.py",
-    "settings.py"
+    "server.py",
+    "telegram_bridge.py"
   ],
-  "notes": "مزوّد رسمي متوافق مع OpenAI — ضع api_key في الإعدادات"
+  "notes": "إصلاح «لا رد» في تيليجرام: إنشاء جلسة DeepSeek حقيقية بدل المصطنعة"
 }

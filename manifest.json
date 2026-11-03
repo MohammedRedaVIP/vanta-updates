@@ -1,16 +1,11 @@
 {
-  "version": "1.5.3",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.5.3/pack-1.5.3.zip",
-  "sha256": "d78721ccea3ddc1a57d837c8562bf77c0e9a5ce534f949c38a3129b3b5d79310",
-  "size_bytes": 50260,
+  "version": "1.6.1",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.6.1/pack-1.6.1.zip",
+  "sha256": "ad863df09834235bea35f1378549cc6e4b97ebd7f34e9b81e7b8feb424af6e40",
+  "size_bytes": 39701,
   "files": [
-    "pyoverlay.py",
-    "updater.py",
     "server.py",
-    "settings.py",
-    "telegram_bridge.py",
-    "security.py",
-    "automation.py"
+    "telegram_bridge.py"
   ],
-  "notes": "إصلاح فقدان التحديثات بعد تركيب APK جديد + استرجاع تلقائي من نسخة الحزمة المحفوظة"
+  "notes": "سبب «لا رد» يظهر صريحاً + أمر /diag لتشخيص إعداد المزوّد"
 }

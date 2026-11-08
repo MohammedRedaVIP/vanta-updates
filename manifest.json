@@ -1,10 +1,14 @@
 {
-  "version": "1.7.7",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.7.7/pack-1.7.7.zip",
-  "sha256": "a4b453542e8b34e88a3407077ef7ecccefbd9cc0ee123916ab7f73c029769f3f",
-  "size_bytes": 12373,
+  "version": "1.7.8",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.7.8/pack-1.7.8.zip",
+  "sha256": "106739f5c24650b32547edca9b65682d092b15582b57c65f6eeed6be837e4165",
+  "size_bytes": 84449,
   "files": [
-    "chat.py"
+    "server.py",
+    "chat.py",
+    "ui_embedded.py",
+    "ui/index.html",
+    "main.py"
   ],
-  "notes": "تعريف أداة المتصفح داخل SHELL_DIRECTIVE — الوكيل بقى يعرف يتحكم فيه"
+  "notes": "واجهة منفصلة + شاشة إعدادات + بلوك كود بعنوان ونسخ + وضع فاتح + تعريف المتصفح + توكن فاضي"
 }

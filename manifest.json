@@ -1,11 +1,10 @@
 {
-  "version": "1.7.6",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.7.6/pack-1.7.6.zip",
-  "sha256": "d16e30ed4358a5be72b495ff90ae42806f88dfc9c043e314e5bae17f526ad4fd",
-  "size_bytes": 8656,
+  "version": "1.7.7",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.7.7/pack-1.7.7.zip",
+  "sha256": "a4b453542e8b34e88a3407077ef7ecccefbd9cc0ee123916ab7f73c029769f3f",
+  "size_bytes": 12373,
   "files": [
-    "skills_bundle.py",
-    "skills_registry.py"
+    "chat.py"
   ],
-  "notes": "مهارات مدمجة كنصوص تُكتب عند أول تشغيل — مش معتمدة على مسار الملفات"
+  "notes": "تعريف أداة المتصفح داخل SHELL_DIRECTIVE — الوكيل بقى يعرف يتحكم فيه"
 }

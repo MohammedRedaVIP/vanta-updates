@@ -1,10 +1,10 @@
 {
-  "version": "1.9.6",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.9.6/pack-1.9.6.zip",
-  "sha256": "a488d4fd4f6fa629ceb02c86f823fb9a80f73eb8b556a2e0832fab1e36d10ddc",
-  "size_bytes": 4757,
+  "version": "1.9.7",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.9.7/pack-1.9.7.zip",
+  "sha256": "0b9800fa69d033263cccedfc255aecdf3cb4952bee2cea260518d16a6bd1ff34",
+  "size_bytes": 12571,
   "files": [
-    "main.py"
+    "prompt.txt"
   ],
-  "notes": "إرجاع التوكن الافتراضي مع أولوية الإعدادات"
+  "notes": "ملف الشخصية يُسقط في طبقة الكود ويُقرأ تلقائياً"
 }

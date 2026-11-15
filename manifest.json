@@ -1,10 +1,10 @@
 {
-  "version": "1.9.5",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.9.5/pack-1.9.5.zip",
-  "sha256": "0bd5195221aeb83fa9aec300685ac1816fcbc7b4b1b5a8feb09fe5e84196c91e",
-  "size_bytes": 10431,
+  "version": "1.9.6",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.9.6/pack-1.9.6.zip",
+  "sha256": "a488d4fd4f6fa629ceb02c86f823fb9a80f73eb8b556a2e0832fab1e36d10ddc",
+  "size_bytes": 4757,
   "files": [
-    "server.py"
+    "main.py"
   ],
-  "notes": "رسالة واضحة: محتاج توكن DeepSeek من الإعدادات"
+  "notes": "إرجاع التوكن الافتراضي مع أولوية الإعدادات"
 }

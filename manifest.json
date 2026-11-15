@@ -1,10 +1,11 @@
 {
-  "version": "2.1.0",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v2.1.0/pack-2.1.0.zip",
-  "sha256": "c5b33e415b48cea177fbe3005ef3c52323e358c4df9d0530873ae12f37e4a74b",
-  "size_bytes": 13345,
+  "version": "2.2.0",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v2.2.0/pack-2.2.0.zip",
+  "sha256": "406b347276cb97e72ed9dcd83b7958b5f79918356a0360570ceb9ab90d2b7b02",
+  "size_bytes": 45060,
   "files": [
-    "skills_bundle.py"
+    "chat.py",
+    "ui/index.html"
   ],
-  "notes": "7 مهارات جديدة: calc/clock/files/net/device/memory/self — 27 إجمالاً"
+  "notes": "كروت أدوات INPUT/OUTPUT داخل المحادثة"
 }

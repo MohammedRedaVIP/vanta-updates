@@ -1,10 +1,10 @@
 {
-  "version": "1.9.13",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.9.13/pack-1.9.13.zip",
-  "sha256": "1df2d79e45e81b65b7c155da13606a7dc666e6e58beb17a3d3897e9f74b0a15d",
-  "size_bytes": 32058,
+  "version": "2.1.0",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v2.1.0/pack-2.1.0.zip",
+  "sha256": "c5b33e415b48cea177fbe3005ef3c52323e358c4df9d0530873ae12f37e4a74b",
+  "size_bytes": 13345,
   "files": [
-    "ui/index.html"
+    "skills_bundle.py"
   ],
-  "notes": "كيبورد المحادثة: interactive-widget + visualViewport"
+  "notes": "7 مهارات جديدة: calc/clock/files/net/device/memory/self — 27 إجمالاً"
 }

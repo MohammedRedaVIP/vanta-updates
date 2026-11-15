@@ -1,11 +1,11 @@
 {
-  "version": "2.2.0",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v2.2.0/pack-2.2.0.zip",
-  "sha256": "406b347276cb97e72ed9dcd83b7958b5f79918356a0360570ceb9ab90d2b7b02",
-  "size_bytes": 45060,
+  "version": "2.3.0",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v2.3.0/pack-2.3.0.zip",
+  "sha256": "914813e92ddc263ae7758b1b319d452d518ff0b6a8bed013c5053bde1be898d0",
+  "size_bytes": 45176,
   "files": [
-    "chat.py",
-    "ui/index.html"
+    "ui/index.html",
+    "chat.py"
   ],
-  "notes": "كروت أدوات INPUT/OUTPUT داخل المحادثة"
+  "notes": "إزالة blur + درج سريع + إصلاح العنوان + إلزام المتصفح"
 }

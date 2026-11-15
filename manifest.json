@@ -1,11 +1,10 @@
 {
-  "version": "1.9.12",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.9.12/pack-1.9.12.zip",
-  "sha256": "2f1c8b5891c959f837939bc2cbbb3a14cf47d23b5fd71d08bd1eb977cbebd054",
-  "size_bytes": 17751,
+  "version": "1.9.13",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.9.13/pack-1.9.13.zip",
+  "sha256": "1df2d79e45e81b65b7c155da13606a7dc666e6e58beb17a3d3897e9f74b0a15d",
+  "size_bytes": 32058,
   "files": [
-    "apkbuilder.py",
-    "prompt.txt"
+    "ui/index.html"
   ],
-  "notes": "getExternalFilesDir + إعادة إسقاط prompt.txt"
+  "notes": "كيبورد المحادثة: interactive-widget + visualViewport"
 }

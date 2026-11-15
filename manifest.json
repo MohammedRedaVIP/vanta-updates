@@ -1,10 +1,10 @@
 {
-  "version": "1.9.10",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.9.10/pack-1.9.10.zip",
-  "sha256": "6094d8abad78c3581b1e44008129fef37c67c9aff2f183522ea468263f96cf48",
-  "size_bytes": 4920,
+  "version": "1.9.11",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.9.11/pack-1.9.11.zip",
+  "sha256": "9dd1294a16f5a4c198f0f82174b3f2a03ff8bdc820aa20ba42fbaf7508314d52",
+  "size_bytes": 4944,
   "files": [
     "apkbuilder.py"
   ],
-  "notes": "اختبار كتابة حقيقي بدل os.access + بدائل مسار"
+  "notes": "مسار بديل Android/data بدون صلاحيات"
 }

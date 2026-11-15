@@ -1,10 +1,11 @@
 {
-  "version": "1.9.3",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.9.3/pack-1.9.3.zip",
-  "sha256": "1c773b63160acc51e8f5f849b6745cdd2a708e1e60f42f35d4ca3fa57093c2b8",
-  "size_bytes": 31855,
+  "version": "1.9.4",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.9.4/pack-1.9.4.zip",
+  "sha256": "442e689e8071675cfe21ee9857f2ad739fb70bd784ae8051050584cacf4b7791",
+  "size_bytes": 34788,
   "files": [
+    "updater.py",
     "ui/index.html"
   ],
-  "notes": "واجهة: إخفاء تلقائي لشاشة الإقلاع + زر تشخيص"
+  "notes": "updater يسمح بـhtml/css/js + واجهة بإخفاء تلقائي"
 }

@@ -1,14 +1,10 @@
 {
-  "version": "1.7.8",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.7.8/pack-1.7.8.zip",
-  "sha256": "106739f5c24650b32547edca9b65682d092b15582b57c65f6eeed6be837e4165",
-  "size_bytes": 84449,
+  "version": "1.9.3",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v1.9.3/pack-1.9.3.zip",
+  "sha256": "1c773b63160acc51e8f5f849b6745cdd2a708e1e60f42f35d4ca3fa57093c2b8",
+  "size_bytes": 31855,
   "files": [
-    "server.py",
-    "chat.py",
-    "ui_embedded.py",
-    "ui/index.html",
-    "main.py"
+    "ui/index.html"
   ],
-  "notes": "واجهة منفصلة + شاشة إعدادات + بلوك كود بعنوان ونسخ + وضع فاتح + تعريف المتصفح + توكن فاضي"
+  "notes": "واجهة: إخفاء تلقائي لشاشة الإقلاع + زر تشخيص"
 }

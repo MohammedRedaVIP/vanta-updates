@@ -1,11 +1,10 @@
 {
-  "version": "2.3.0",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v2.3.0/pack-2.3.0.zip",
-  "sha256": "914813e92ddc263ae7758b1b319d452d518ff0b6a8bed013c5053bde1be898d0",
-  "size_bytes": 45176,
+  "version": "2.3.1",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v2.3.1/pack-2.3.1.zip",
+  "sha256": "32cc3a5c9bb4f98f468340529b32a9f743b44dde956e424ac0ef9783019980a0",
+  "size_bytes": 32680,
   "files": [
-    "ui/index.html",
-    "chat.py"
+    "ui/index.html"
   ],
-  "notes": "إزالة blur + درج سريع + إصلاح العنوان + إلزام المتصفح"
+  "notes": "شريط بحث الدرج sticky بخلفية صلبة"
 }

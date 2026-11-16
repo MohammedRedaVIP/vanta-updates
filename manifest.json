@@ -1,10 +1,10 @@
 {
-  "version": "2.5.0",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v2.5.0/pack-2.5.0.zip",
-  "sha256": "16352b03eeb01bea0afa58fa44e04354397b55a66adcd2ac50ac1802b3c9c8b6",
-  "size_bytes": 34608,
+  "version": "2.6.0",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v2.6.0/pack-2.6.0.zip",
+  "sha256": "a89fba0cb0c6b783a3a15798adb6890622938b63909794e12f98cf9b2fa03d25",
+  "size_bytes": 36074,
   "files": [
     "ui/index.html"
   ],
-  "notes": "شريحة المزوّد/الموديل + لوحة الأدوات"
+  "notes": "لوحات الملفات والذاكرة والإحصائيات"
 }

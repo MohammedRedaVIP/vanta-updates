@@ -1,10 +1,12 @@
 {
-  "version": "2.3.3",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v2.3.3/pack-2.3.3.zip",
-  "sha256": "656cfa7fe71f6635f580e08be8e5fb0b6e11305a2cea53b3663102d6669f1bb3",
-  "size_bytes": 2357,
+  "version": "2.4.0",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v2.4.0/pack-2.4.0.zip",
+  "sha256": "0694bf538ace04a3585f48d9e20dcfed3a31e6e74b3fc98c4215aef136787c35",
+  "size_bytes": 16823,
   "files": [
-    "browser.py"
+    "safefilter.py",
+    "browser.py",
+    "skills_bundle.py"
   ],
-  "notes": "انتظار التحميل + قراءة المحتوى الأساسي + روابط بعناوين"
+  "notes": "فلتر محتوى لنتائج البحث والمتصفح"
 }

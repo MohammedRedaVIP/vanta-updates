@@ -1,11 +1,11 @@
 {
-  "version": "3.3.0",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v3.3.0/pack-3.3.0.zip",
-  "sha256": "d35b2d4ea86d67e6d3487a7d664717c88d26ae7c4343bd88e52d656d53254eb4",
-  "size_bytes": 42655,
+  "version": "3.4.0",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v3.4.0/pack-3.4.0.zip",
+  "sha256": "3fd5b2fa2dfe2b67c4bc707a6fa3f5bf02d315af817d7917538f8f5b8a197753",
+  "size_bytes": 39019,
   "files": [
     "ui/index.html",
     "assets/terminal/index.html"
   ],
-  "notes": "تبويبات التيرمينال + إعدادات قابلة للتمرير وزرايرها تعمل"
+  "notes": "مزامنة مع APK 3.4.0"
 }

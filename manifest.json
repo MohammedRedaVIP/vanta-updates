@@ -1,10 +1,11 @@
 {
-  "version": "3.2.0",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v3.2.0/pack-3.2.0.zip",
-  "sha256": "e77e94bf111f1a421709cdac28e52c5c043a5cb46f384b7435dbc627da000dad",
-  "size_bytes": 38464,
+  "version": "3.3.0",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v3.3.0/pack-3.3.0.zip",
+  "sha256": "d35b2d4ea86d67e6d3487a7d664717c88d26ae7c4343bd88e52d656d53254eb4",
+  "size_bytes": 42655,
   "files": [
-    "ui/index.html"
+    "ui/index.html",
+    "assets/terminal/index.html"
   ],
-  "notes": "درج موحّد + تبويبات + إعدادات + إخفاء الهيدر الأصلي"
+  "notes": "تبويبات التيرمينال + إعدادات قابلة للتمرير وزرايرها تعمل"
 }

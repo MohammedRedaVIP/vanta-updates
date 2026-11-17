@@ -1,10 +1,14 @@
 {
-  "version": "2.6.3",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v2.6.3/pack-2.6.3.zip",
-  "sha256": "9f4f7e8e8f7fe14b823a7275d59855c11ded7d7167cbab4474202eac28c8843e",
-  "size_bytes": 35254,
+  "version": "2.9.0",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v2.9.0/pack-2.9.0.zip",
+  "sha256": "b6fa2b1309be34d54605a13a9ba68ab3827f2f8b8783b93242869d5d67b34bee",
+  "size_bytes": 84905,
   "files": [
-    "ui/index.html"
+    "server.py",
+    "assets/terminal/index.html",
+    "assets/terminal/xterm.js",
+    "assets/terminal/xterm.css",
+    "assets/terminal/addon-fit.js"
   ],
-  "notes": "bo-retry null + شاشة الخطأ بعد الجهوزية"
+  "notes": "التيرمينال من طبقة الكود — يُحدَّث بالحزم"
 }

@@ -1,11 +1,10 @@
 {
-  "version": "3.1.1",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v3.1.1/pack-3.1.1.zip",
-  "sha256": "ec1c6bfe4c8e2a8116757e8b42bb6fd2f1b524bee73bd5217d5e81c868322631",
-  "size_bytes": 49061,
+  "version": "3.1.2",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v3.1.2/pack-3.1.2.zip",
+  "sha256": "9537e983ce25df67735d5e4f33671a5dab46284d0ef538394001af58d52514f7",
+  "size_bytes": 38446,
   "files": [
-    "ui/index.html",
-    "server.py"
+    "ui/index.html"
   ],
-  "notes": "مقارنة إصدار الواجهة: الأحدث يفوز"
+  "notes": "تبويبات ثابتة وتعمل + مساحة للمحرر + بحث الدرج"
 }

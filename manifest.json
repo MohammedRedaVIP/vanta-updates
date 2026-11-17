@@ -1,14 +1,10 @@
 {
-  "version": "2.9.0",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v2.9.0/pack-2.9.0.zip",
-  "sha256": "b6fa2b1309be34d54605a13a9ba68ab3827f2f8b8783b93242869d5d67b34bee",
-  "size_bytes": 84905,
+  "version": "3.0.0",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v3.0.0/pack-3.0.0.zip",
+  "sha256": "c9094ad1f9e50a8e9d9d2fbf1493a57e14eb8bffcfdd4f7d808a855eb83ff2b0",
+  "size_bytes": 36105,
   "files": [
-    "server.py",
-    "assets/terminal/index.html",
-    "assets/terminal/xterm.js",
-    "assets/terminal/xterm.css",
-    "assets/terminal/addon-fit.js"
+    "ui/index.html"
   ],
-  "notes": "التيرمينال من طبقة الكود — يُحدَّث بالحزم"
+  "notes": "4 سمات: ليل وذهب (افتراضي) / حجر ونحاس / حرير عاجي / بنفسجي"
 }

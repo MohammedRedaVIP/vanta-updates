@@ -1,10 +1,10 @@
 {
-  "version": "2.6.1",
-  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v2.6.1/pack-2.6.1.zip",
-  "sha256": "98f41bcf4141c011c2274260a88249d514c6414e6d39a23db411786b447e7036",
-  "size_bytes": 34615,
+  "version": "2.6.2",
+  "pack_url": "https://github.com/MohammedRedaVIP/vanta-updates/releases/download/v2.6.2/pack-2.6.2.zip",
+  "sha256": "fb20f9ac4d7790ba2c41088176c80b5cfc685c8c73ba2adf7e8a001b9bdc0297",
+  "size_bytes": 35177,
   "files": [
     "ui/index.html"
   ],
-  "notes": "ربط آمن + نقل كود اللوحات إلى السكربت + تنظيف CSS"
+  "notes": "حارس الدرج: ☰ والسحب يعملان دائماً"
 }
